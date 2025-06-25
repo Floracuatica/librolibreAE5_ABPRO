@@ -14,11 +14,9 @@
 
 Promover la lectura y el acceso gratuito a libros, apoyando la organización y búsqueda rápida de contenidos mediante una interfaz clara y amigable.
 
-## 🚀 Cómo usar
+## 🚀 Lo puedes ver en
 
-1. Clona el repositorio o descarga el archivo `.html`.
-2. Ábrelo en tu navegador preferido.
-3. Explora el catálogo, busca libros y prueba el formulario de registro.
+librolibre-ae-5-abpro.vercel.app
 
 ## 🧠 Aprendizajes
 
